@@ -69,4 +69,3 @@ npm-debug.log
 
 # Webstorm
 .idea/
-/examples/mobx-example/package-lock.json
